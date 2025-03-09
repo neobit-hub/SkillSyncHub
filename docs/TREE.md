@@ -101,3 +101,5 @@ SkillSyncHub/
     ├── env.example      # Sample environment variables
     ├── settings.json    # General configuration
 ```
+
+---
